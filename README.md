@@ -7,6 +7,9 @@ https://create-react-app.dev/docs/deployment/#github-pages
 
 This article is also helpful! https://medium.com/@swarajgosavi20/how-to-deploy-react-on-github-pages-33e427f0bd36
 
+### Custom domain integration:
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site 
+
 ## Available Scripts
 
 In the project directory, you can run:

@@ -2,7 +2,7 @@ const EXPERIENCE = [
     {
       name: 'Freelance Software Consultant',
       dates: {
-        start: '09.2023',
+        start: '04.2024',
         end: 'present',
       },
       description:

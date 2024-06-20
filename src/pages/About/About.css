@@ -2,7 +2,7 @@
     padding-top: 3vh;
     overflow: auto;
     position: fixed;
-    top: calc(5vh + 51px);
+    top: calc(5vh + 21px);
     left: calc(35% + 4vw);
     right: 3vw;
     bottom: 0;
@@ -54,7 +54,7 @@
       display: flex;
       overflow: auto;
       position: fixed;
-      top: calc(5vh + 51px);
+      top: calc(5vh + 21px);
       bottom: 0;
       flex-direction: column;
     }

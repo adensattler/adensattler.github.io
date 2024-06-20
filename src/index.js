@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 import { HashRouter as Router } from "react-router-dom";  // This enables routing! https://stackoverflow.com/questions/51974369/what-is-the-difference-between-hashrouter-and-browserrouter-in-react
+// see link for HashRouter Documentation https://reactrouter.com/en/6.23.1/router-components/hash-router
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

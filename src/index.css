@@ -13,8 +13,8 @@ code {
 }
 
 /* anchor the entire react app */
-/* #root {
+#root {
   width: 100%;
   position: fixed;
   height: 100vh;
-} */
+}

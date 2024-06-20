@@ -1,10 +1,8 @@
 import React from 'react';
 import './Header.css';
-import { Link, useLocation } from 'react-router-dom';
+import { Link} from 'react-router-dom';
 
 export default function Header() {
-  const location = useLocation();
-
   return (
     <header>
       <div className="titles">
@@ -15,7 +13,7 @@ export default function Header() {
       <div className="nav-container">
         <Link to="/">Work</Link>
         <Link to="/about">About</Link>
-        <Link to="/play">Etc.</Link>
+        {/* <Link to="/play">Etc.</Link> */}
       </div>
     </header>
   );

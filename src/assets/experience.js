@@ -39,7 +39,7 @@ const EXPERIENCE = [
         end: '08.2019',
       },
       description:
-        'Conducted company and customer segment research to aid potential client mettings, pitches, proposals in addition to networking to cultivate meaningful business prospects.',
+        'Cultivated meaningful business prospects through networking and conducted company/customer segment research to aid potential client mettings, pitches, and proposals.',
       position: 'Business Development Summer Intern',
       link: 'https://symmcos.com/',
     },

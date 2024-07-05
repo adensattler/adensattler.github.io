@@ -37,12 +37,12 @@ export default function About() {
               <p>
                 <b>Things I'm exploring right now: </b>
                 web dev, cloud computing, cooking & nutrition,
-                entrepeneuership, film photography
+                entrepeneuership, film photography, and singing (not very well)
               </p>
               <br />
               <p>
                 <b>Things I want to learn more about: </b> 
-                DevOps + CI/CD, networking, marathon running, LLMs, film photography, 
+                DevOps + CI/CD, networking, marathon running, distributed systems, film photography, 
                 frontend web dev, music production, philosophy, ethical hacking, film,
                 electric guitar
               </p>
@@ -50,16 +50,11 @@ export default function About() {
               <p>
                 <b>Things I enjoy: </b>
                 
-                acoutic guitar, driving on the highway with the windows down, live drums, 
-                watching the sunset, enduro motorcycling, fashion, working in a sauna-like garage,
+                acoustic guitar, driving on the highway with the windows down, live drums, 
+                watching the sunset, enduro motorcycling, fashion, working in a garage when it feels like a sauna,
                 training at night, interior design, espresso,
                 and the occasional trashy reality show
 
-                {/* bouldering, functional programming, indie
-                rock, waking up with the sun, cold brew, watching leaves turn
-                red in the fall, horror movies, watching the swans and geese
-                near my neighborhood pond at sunset, running on the West Side
-                Highway */}
               </p>
               <br />
               <p>
@@ -75,7 +70,7 @@ export default function About() {
                   Dominic Fike, Paris Texas
                 </li>
                 <li>
-                  <b>Shows</b>: Succession, Yellowstone, Top Gear, Adventure Time, The Last of Us
+                  <b>Shows</b>: The Last of Us, Yellowstone, Top Gear, Adventure Time, Andor
                 </li>
                 <li>
                   <b>Places</b>: NYC, my front porch in the summertime, the Flatirons, Target in the

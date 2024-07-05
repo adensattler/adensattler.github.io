@@ -1,6 +1,7 @@
 @import url(https://db.onlinewebfonts.com/c/17241fb9c2ffb3ec11eba762e771435f?family=Suisse+Int%27l+Book);
 
 :root {
+  --background-color: #EEF0E7;
   --dark-grey: #384853;
   --body-grey: #8b949d;
   --body-grey-lighter: #868a8ead;
@@ -8,6 +9,7 @@
 }
 
 body {
+  background-color: var(--background-color);
   font-family: "Suisse Int'l Boo", Helvetica, Arial, sans-serif;
   width: 100%;
 }
@@ -26,7 +28,7 @@ h1 {
   margin: 0vh auto;
   top: 0;
   left: 0;
-  padding-top: 2vh;
+  /* padding-top: 2vh; */
 }
 a {
   color: black;

@@ -25,7 +25,7 @@ export default function Work() {
           <p>
             Recently graduated studying {' '}
             <i>
-              Computer Science / Business Administraion / Finance
+              Computer Science / Business Administration / Finance
             </i>{' '}
             @ The Univeristy of Denver.
           </p>

@@ -13,7 +13,7 @@ export default function About() {
           <p>
             I recently graduated at the University of Denver studying{' '}
             <i>
-                Computer Science / Business Administraion / Finance.
+                Computer Science / Business Administration / Finance.
             </i>{' '}
             I was born and raised in Colorado and don't plan on leaving any time soon!
           </p>
